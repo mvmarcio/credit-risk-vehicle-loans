@@ -18,8 +18,3 @@ This project analyzes state-level auto loan delinquency in Brazil (*Financiament
 * **FIPE / IBGE IPCA:** State-level median rent metrics and housing inflation components.
 * **FGV (Fundação Getulio Vargas):** IGP-M index monthly series.
 
-## Project Setup
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/credit-risk-vehicle-loans.git](https://github.com/your-username/credit-risk-vehicle-loans.git)
-   cd credit-risk-vehicle-loans
