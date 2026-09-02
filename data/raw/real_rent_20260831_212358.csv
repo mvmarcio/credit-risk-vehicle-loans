@@ -1,0 +1,28 @@
+state_code,rent_variation,city
+AC,9.0,Rio Branco
+AL,10.5,Maceio
+AM,10.5,Manaus
+AP,9.0,Macapa
+BA,11.0,Salvador
+CE,11.5,Fortaleza
+DF,8.0,Brasilia
+ES,10.0,Vitoria
+GO,10.0,Goiania
+MA,10.0,Sao Luis
+MG,10.5,Belo Horizonte
+MS,9.5,Campo Grande
+MT,12.0,Cuiaba
+PA,11.0,Belem
+PB,10.0,Joao Pessoa
+PE,10.5,Recife
+PI,9.5,Teresina
+PR,8.0,Curitiba
+RJ,12.0,Rio de Janeiro
+RN,10.0,Natal
+RO,9.0,Porto Velho
+RR,9.0,Boa Vista
+RS,9.0,Porto Alegre
+SC,9.5,Florianopolis
+SE,9.5,Aracaju
+SP,8.5,Sao Paulo
+TO,9.0,Palmas

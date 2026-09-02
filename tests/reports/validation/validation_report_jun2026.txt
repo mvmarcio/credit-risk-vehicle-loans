@@ -1,0 +1,48 @@
+============================================================
+RELATÓRIO DE VALIDAÇÃO - SCR.DATA
+JUNHO 2026 (CROSS-SECTION)
+============================================================
+
+TOTAL BRASIL:
+----------------------------------------
+Carteira Ativa: R$ 441,645,113,595.36
+Inadimplência: R$ 29,776,035,666.93
+Taxa de Inadimplência: 7.33%
+Taxa de Ativo Problemático: 8.65%
+Taxa de Vencido > 90 dias: 1.94%
+
+VALIDAÇÃO OFICIAL:
+----------------------------------------
+Oficial - Carteira Ativa: R$ 403,923,493,654.08
+Calculado: R$ 441,645,113,595.36
+Diferença: R$ 37,721,619,941.28 (9.34%)
+
+AGREGAÇÃO POR ESTADO:
+----------------------------------------
+SP: Ativa=R$ 120,675,610,382.39, Inad=6.14%, AP=7.96%
+MG: Ativa=R$ 35,375,023,458.16, Inad=6.22%, AP=8.03%
+PR: Ativa=R$ 33,494,689,529.35, Inad=6.26%, AP=8.06%
+SC: Ativa=R$ 32,608,362,920.00, Inad=5.97%, AP=7.77%
+RS: Ativa=R$ 28,203,317,704.99, Inad=7.12%, AP=9.30%
+RJ: Ativa=R$ 24,289,890,205.23, Inad=10.49%, AP=12.28%
+GO: Ativa=R$ 19,733,642,084.45, Inad=6.92%, AP=9.11%
+BA: Ativa=R$ 15,144,093,040.78, Inad=7.66%, AP=9.43%
+MT: Ativa=R$ 14,737,753,984.67, Inad=5.82%, AP=8.29%
+PA: Ativa=R$ 13,548,815,010.18, Inad=8.42%, AP=10.73%
+PE: Ativa=R$ 13,492,890,899.05, Inad=7.45%, AP=9.08%
+CE: Ativa=R$ 12,997,404,815.06, Inad=6.73%, AP=8.44%
+DF: Ativa=R$ 9,696,614,422.30, Inad=5.37%, AP=6.98%
+MA: Ativa=R$ 8,636,956,111.69, Inad=7.12%, AP=9.15%
+MS: Ativa=R$ 8,475,501,190.63, Inad=6.72%, AP=9.30%
+ES: Ativa=R$ 8,089,194,246.30, Inad=5.04%, AP=6.64%
+AM: Ativa=R$ 6,872,055,850.71, Inad=8.12%, AP=10.30%
+PB: Ativa=R$ 5,659,701,137.85, Inad=6.30%, AP=7.80%
+RN: Ativa=R$ 5,411,825,034.90, Inad=6.31%, AP=8.15%
+AL: Ativa=R$ 4,622,283,265.66, Inad=9.99%, AP=11.65%
+RO: Ativa=R$ 4,402,992,930.08, Inad=6.06%, AP=8.32%
+PI: Ativa=R$ 3,969,790,901.45, Inad=7.51%, AP=9.59%
+TO: Ativa=R$ 3,710,515,923.89, Inad=6.43%, AP=8.90%
+SE: Ativa=R$ 2,779,869,578.07, Inad=7.67%, AP=9.36%
+AC: Ativa=R$ 1,793,672,098.44, Inad=5.47%, AP=7.41%
+AP: Ativa=R$ 1,750,449,571.16, Inad=6.49%, AP=8.74%
+RR: Ativa=R$ 1,472,197,297.92, Inad=7.33%, AP=9.31%

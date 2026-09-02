@@ -1,0 +1,7 @@
+indicator,correlation,p_value,strength,significance,observations
+Total Index,-0.4201,0.0291,Moderate,Significant (**),27
+Monthly Variation,-0.0332,0.8693,Very Weak,Not Significant,27
+12-Month Variation,0.3831,0.0485,Weak,Significant (**),27
+Average Price (R$/m²),-0.0447,0.8247,Very Weak,Not Significant,27
+Monthly Variation (%),-0.0332,0.8693,Very Weak,Not Significant,27
+12-Month Variation (%),0.3831,0.0485,Weak,Significant (**),27

@@ -1,0 +1,9 @@
+indicator,correlation,p_value,strength,significance,observations
+Unemployment Rate (%),0.4584,0.0162,Moderate,Significant (**),27
+Gini Index,0.3436,0.0793,Weak,Weakly Significant (*),27
+FipeZAP - Avg Price (R$/m²),0.1545,0.4416,Very Weak,Not Significant,27
+FipeZAP - 12M Variation (%),0.0831,0.6803,Very Weak,Not Significant,27
+FipeZAP - Rent Variation (12M %),0.0831,0.6803,Very Weak,Not Significant,27
+FipeZAP - Total Index,-0.0239,0.9058,Very Weak,Not Significant,27
+FipeZAP - Monthly Variation (%),-0.2369,0.2342,Weak,Not Significant,27
+Median Income (R$),-0.3187,0.1052,Weak,Not Significant,27

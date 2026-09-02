@@ -1,0 +1,49 @@
+data:
+  start_date: "2024-01-31"
+  end_date: "2026-06-30"
+  states:
+    - AC
+    - AL
+    - AP
+    - AM
+    - BA
+    - CE
+    - DF
+    - ES
+    - GO
+    - MA
+    - MT
+    - MS
+    - MG
+    - PA
+    - PB
+    - PR
+    - PE
+    - PI
+    - RJ
+    - RN
+    - RS
+    - RO
+    - RR
+    - SC
+    - SP
+    - SE
+    - TO
+
+database:
+  path: "data/credit_risk.db"
+
+analysis:
+  output_dir: "reports"
+  export_csv: true
+
+extraction:
+  scr:
+    file: "files/scrdata_2026/scrdata_202606.csv"
+    date: "2026-06-30"
+  fipezap:
+    file: "files/fipeza_capital_data.xlsx"
+    date: "2026-07-01"
+  pnad:
+    year: 2025
+    quarter: 1
