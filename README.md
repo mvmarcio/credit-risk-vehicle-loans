@@ -107,7 +107,6 @@ A comprehensive **credit risk analysis** project for vehicle loans (*Financiamen
 
 ## 📁 Project Structure
 
-```
 vehicle-default-analysis/
 ├── data/
 │   ├── raw/                    # CSV downloads from official sources
@@ -129,4 +128,3 @@ vehicle-default-analysis/
 ├── main.py                     # Orchestrates the entire pipeline
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
-```
