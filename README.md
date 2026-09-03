@@ -8,7 +8,7 @@
 
 ## 📋 Executive Summary
 
-A comprehensive **credit risk analysis** project for vehicle loans (*Financiamento de Veículos*) in Brazil, integrating official data from **BACEN (SCR)**, **IBGE (PNAD Contínua)**, and **FipeZAP**. The pipeline evaluates how macroeconomic factors impact retail credit performance across all **27 Brazilian states**.
+A comprehensive **credit risk analysis** project for vehicle loans (*Financiamento de Veículos*) in Brazil, integrating official data from **BACEN (SCR)**, **IBGE (PNAD Contínua)**, and **FipeZAP**. The pipeline evaluates how macroeconomic factors impact retail credit performance across all **26 Brazilian states** and **Federal District**.
 
 ### Key Features
 
@@ -47,7 +47,7 @@ A comprehensive **credit risk analysis** project for vehicle loans (*Financiamen
 4. **SC** - R$ 30.07 Bi (5.98% default)
 5. **RS** - R$ 24.61 Bi (6.90% default)
 
-### 2. Correlation Matrix (n = 27 states)
+### 2. Correlation Matrix (n = 27 FU)
 
 | Indicator | Correlation | p-value | Strength | Significance |
 |-----------|------------|---------|----------|--------------|
@@ -64,13 +64,13 @@ A comprehensive **credit risk analysis** project for vehicle loans (*Financiamen
 
 #### 🔴 **Unemployment is the Strongest Predictor**
 - **Moderate positive correlation (r = 0.4584, p = 0.0162)**
-- States with higher unemployment have higher vehicle loan default rates
+- States with higher unemployment have higher linear correlation vehicle loan default rates
 - This is the **only statistically significant finding** (p < 0.05)
 
 #### 🟡 **Income Inequality Shows Weak Association**
 - **Weak positive correlation (r = 0.3436, p = 0.0793)**
 - Borderline statistical significance (p < 0.10)
-- States with higher inequality may have slightly higher defaults
+- States with higher inequality may have linear correlation slightly higher defaults
 
 #### 🟢 **Higher Income Slightly Reduces Defaults**
 - **Weak negative correlation (r = -0.3187, p = 0.1052)**
@@ -96,14 +96,12 @@ A comprehensive **credit risk analysis** project for vehicle loans (*Financiamen
 ### Highest Risk States
 - **Rio de Janeiro (10.53%)** - Highest default rate, large portfolio
 - **Alagoas (9.97%)** - Second highest default rate
-- **Pará (8.20%)** - High default in Northern region
-- **Amazonas (8.07%)** - High default in Northern region
 
 ### Lowest Risk States
 - **Espírito Santo (4.99%)** - Lowest default rate
 - **Distrito Federal (5.25%)** - Low default, high income
 - **Acre (5.27%)** - Low default in Northern region
-- **Mato Grosso (5.76%)** - Low default in Central-West
+- **Mato Grosso (5.76%)** - Second low default in Central-West
 
 ## 📁 Project Structure
 
