@@ -107,24 +107,26 @@ A comprehensive **credit risk analysis** project for vehicle loans (*Financiamen
 
 ## 📁 Project Structure
 
+```
 vehicle-default-analysis/
 ├── data/
-│ ├── raw/ # CSV downloads from official sources
-│ └── credit_risk.db # SQLite database
+│   ├── raw/                    # CSV downloads from official sources
+│   └── credit_risk.db          # SQLite database
 ├── src/
-│ ├── init.py
-│ ├── extraction.py: Data extraction from BACEN, PNAD, FipeZAP
-│ ├── database.py: SQLite database operations
-│ └── analysis.py: Statistical analysis & correlations
+│   ├── __init__.py
+│   ├── extraction.py           # Data extraction from BACEN, PNAD, FipeZAP
+│   ├── database.py             # SQLite database operations
+│   └── analysis.py             # Statistical analysis & correlations
 ├── reports/
-│ ├── state_medians.csv: State-level default medians
-│ ├── correlations.csv: Correlation matrix
-│ ├── monthly_rankings.csv: Monthly state rankings
-│ ├── trend_analysis.csv: Trend analysis over time
-│ └── outliers.csv: Outlier detection results
+│   ├── state_medians.csv       # State-level default medians
+│   ├── correlations.csv        # Correlation matrix
+│   ├── monthly_rankings.csv    # Monthly state rankings
+│   ├── trend_analysis.csv      # Trend analysis over time
+│   └── outliers.csv            # Outlier detection results
 ├── logs/
-│ └── pipeline.log: Pipeline execution logs
-├── config.yaml: Configuration parameters
-├── main.py: Orchestrates the entire pipeline
-├── requirements.txt: Python dependencies
-└── README.md: Project documentation
+│   └── pipeline.log            # Pipeline execution logs
+├── config.yaml                 # Configuration parameters
+├── main.py                     # Orchestrates the entire pipeline
+├── requirements.txt            # Python dependencies
+└── README.md                   # Project documentation
+```
